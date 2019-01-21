@@ -1,2 +1,3 @@
 # arduino-exp-shield
-Arduino uno education and experiment shield-board
+Arduino uno education and experiment shield-board. 2 version included.
+okulda kodlama eğitiminde kullandığımız dneme bordlarının şeması ve baskı devresidir. Birçok uygulamayı tek bir shield üzerinde topladık. kendi imkanlarınızla basıp kullanabilirsiniz. baskı devre tek yüzlü olarak basılmaya uygun çizilmiştir. iki versiyon olarak şema yüklenmiştir. biri daha basit diğeri ise daha karmaşık olan modeldir. İsis simülasyonunda hata vermemesi için kullanmadığınız bazı donanımları silemeniz gerekmektedir (ulrasonik ve bluetooth gibi). LCD keypad kütüphanesini kullanabilmeniz için LCDKeypad.h dosyasında pin numaralarını #define KEYPAD_LCD_PINS 2, 3, 4, 5, 6, 7 olarak değiştirmeniz gerekmektedir.(LCDKeypad shield library ile uyumlu olarak çalışacaktır. Sorularınızı garipozatQgmail.com dan iletebilrsiniz.
